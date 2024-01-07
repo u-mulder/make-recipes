@@ -1,0 +1,2 @@
+# Copy file to `misc.mk` (cp includes/misc.mk.dist includes/misc.mk)
+# And place your variables and recipes here
