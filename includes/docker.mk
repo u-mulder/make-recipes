@@ -1,9 +1,9 @@
 ## Docker and docker-compose recipes
 
 # Variables
-DOCKER_COMPOSE=docker-compose
-DOCKER_COMPOSE_FILE=docker-compose.yaml
-DOCKER_ENV_FILE=docker.env
+DOCKER_COMPOSE?=docker-compose
+DOCKER_COMPOSE_FILE?=docker-compose.yaml
+DOCKER_ENV_FILE?=docker.env
 
 ##--- Starting/stopping containers ---
 
